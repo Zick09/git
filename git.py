@@ -7,3 +7,6 @@ def prod(x,y):
 
 def subtrack(x,y):
     return x-y
+
+def remain(x,y):
+    return x%y
